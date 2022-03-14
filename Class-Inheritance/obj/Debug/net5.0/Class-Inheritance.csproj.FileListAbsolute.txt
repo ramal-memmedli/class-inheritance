@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.exe
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.deps.json
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.dll
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\bin\Debug\net5.0\Class-Inheritance.pdb
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.dll
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\refint\Class-Inheritance.dll
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.pdb
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\Class-Inheritance.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Projects\Class-Inheritance\Class-Inheritance\obj\Debug\net5.0\ref\Class-Inheritance.dll
